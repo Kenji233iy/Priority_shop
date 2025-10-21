@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "DESSUADORA OVERSIZE",
+      "price": "89.99",
+      "status": "NOU",
+      "image": "media/affd16fd5264cab9197da4cd1a996f820e601ee4.png",
+      "category": "Dessuadores"
+    },
+    {
+      "id": "2",
+      "name": "SAMARRETA GRÀFICA",
+      "price": "39.99",
+      "status": "ÚLTIMS",
+      "image": "media/affd16fd5264cab9197da4cd1a996f820e601ee4.png",
+      "category": "Samarretes"
+    },
+    {
+      "id": "3",
+      "name": "PANTALONS CARGO",
+      "price": "79.99",
+      "image": "media/affd16fd5264cab9197da4cd1a996f820e601ee4.png",
+      "category": "Pantalons"
+    }
+  ]
+}
